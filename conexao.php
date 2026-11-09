@@ -1,7 +1,7 @@
 <?php
 
 $host    = '127.0.0.1';
-$banco   = 'loja-doces';
+$banco   = 'doceanalu_db';
 $usuario = 'root';
 $senha   = 'root';
 
