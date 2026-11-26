@@ -2,18 +2,9 @@
 Vamos criar um sistema de uma loja de doces desenvolvido em PHP e MySQL e algumas novas funcionalidades extras :)
 
 
-Usamos IA para:
+Usamos IA para
+
 ajudar a montar rodapé e cabeçalho;
-<?php include "cabecalho.php"; ?>
-
-<h2>Página inicial</h2>
-<p>Conteúdo da página.</p>
-
-<?php include "rodape.php"; ?>
-
-incluir icones no rodape
-ajustar visual com bootstrap rodape e cabecalho
-<<<<<<< HEAD
 
 
 
@@ -36,5 +27,3 @@ Organizado o layout para facilitar a navegação pelo sistema
 ### Imagens dos produtos
 Temos asimagens dos doces na pasta fotos
 Imagens reservadas para utilização na página de produtos
-=======
->>>>>>> origin/MariaLuiza
