@@ -13,6 +13,7 @@ ajudar a montar rodapé e cabeçalho;
 
 incluir icones no rodape
 ajustar visual com bootstrap rodape e cabecalho
+<<<<<<< HEAD
 
 
 
@@ -35,3 +36,5 @@ Organizado o layout para facilitar a navegação pelo sistema
 ### Imagens dos produtos
 Temos asimagens dos doces na pasta fotos
 Imagens reservadas para utilização na página de produtos
+=======
+>>>>>>> origin/MariaLuiza

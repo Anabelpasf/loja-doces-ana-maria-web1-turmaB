@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/MariaLuiza
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
